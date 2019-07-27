@@ -1,0 +1,29 @@
+{
+  "name": "toml-docs",
+  "version": "1.0.0",
+  "description": "A set of document generators and tools that use TOML files for config and data transport",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charrismatic/toml-docs.git"
+  },
+  "keywords": [
+    "toml",
+    "document-formatting",
+    "pandoc",
+    "markdown"
+  ],
+  "author": "Matt Harris <charrismatic@protonmail.com> (https://charrismatic.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charrismatic/toml-docs/issues"
+  },
+  "homepage": "https://github.com/charrismatic/toml-docs#readme",
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
