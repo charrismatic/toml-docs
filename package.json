@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/charrismatic/toml-docs#readme",
   "dependencies": {
-    "toml": "^3.0.0"
+    "toml": "^5.0.1"
   }
 }
